@@ -1,3 +1,4 @@
+// Arduino ENC28J60 Ethernet Shield V1.0
 // EtherShield webserver demo
 #include "EtherShield.h"
 
